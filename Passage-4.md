@@ -40,3 +40,25 @@ Despite these concerns, many experts believe that the future of AI depends on re
    D) The author dismisses concerns about AI as exaggerated and irrelevant.  
 
 ---
+
+# **Answers with Explanations:**  
+
+ **What is the primary focus of the passage?**  
+   **Answer:** **C) The potential benefits and risks associated with AI.**  
+   **Explanation:** The passage discusses both the advantages (efficiency, problem-solving) and the risks (ethical concerns, job displacement) of AI, making this the most accurate choice.  
+
+ **According to the passage, proponents of AI believe that:**  
+   **Answer:** **C) AI improves efficiency and can solve complex problems.**  
+   **Explanation:** The passage clearly states that AI enhances efficiency, reduces human error, and solves problems beyond human capabilities, reflecting the views of AI proponents.  
+
+ **What concern do critics of AI highlight in the passage?**  
+   **Answer:** **C) Ethical issues and potential loss of human jobs.**  
+   **Explanation:** Critics express concerns about job displacement due to automation and ethical dilemmas related to AI decision-making, as mentioned in the passage.  
+
+ **Which of the following, if true, would strengthen the argument for responsible AI development?**  
+   **Answer:** **A) A report shows that unregulated AI systems caused unintended consequences in critical sectors.**  
+   **Explanation:** This supports the need for responsible development and regulation, as it provides real-world evidence of the risks associated with unregulated AI systems.  
+
+ **What can be inferred about the author’s perspective on AI?**  
+   **Answer:** **B) The author is optimistic about AI but acknowledges the importance of ethical oversight.**  
+   **Explanation:** The author recognizes AI’s benefits but emphasizes the importance of responsible development, regulation, and ethical considerations, indicating a balanced, optimistic view with caution.  
