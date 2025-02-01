@@ -40,7 +40,7 @@ Despite these criticisms, the growth mindset remains influential because it shif
    D) The author thinks it should replace all other educational strategies.
 
 
-   ### **Answers with Explanations:**  
+   ## **Answers with Explanations:**  
 
  **What is the main idea of the passage?**  
    **Answer:** **B) The growth mindset has both benefits and limitations in educational contexts.**  
