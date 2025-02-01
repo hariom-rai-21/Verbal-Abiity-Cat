@@ -40,4 +40,27 @@ Striking a balance between the benefits and pitfalls of social media is essentia
    A) A study showing that people who use social media moderately report higher life satisfaction.  
    B) Evidence that individuals who spend less time on social media are more socially isolated.  
    C) Research indicating a direct link between heavy social media use and increased depression rates.  
-   D) Data showing that social media helps marginalized communities voice their concerns.  
+   D) Data showing that social media helps marginalized communities voice their concerns.
+
+
+   # Answers
+
+1. **What is the primary purpose of the passage?**  
+   **Answer:** **B) To highlight the complexities of social media’s impact on mental health.**  
+   **Explanation:** The passage discusses both the positive and negative effects of social media, emphasizing that its impact is complex and not black and white.  
+
+2. **According to the passage, what is *doomscrolling*?**  
+   **Answer:** **C) Continuously consuming negative news online.**  
+   **Explanation:** The passage defines *doomscrolling* as the phenomenon of endlessly consuming negative news, which can increase stress and a sense of helplessness.  
+
+3. **Which of the following best reflects the author’s attitude towards social media?**  
+   **Answer:** **C) Neutral, emphasizing the need for a balanced perspective.**  
+   **Explanation:** The author maintains a neutral stance, acknowledging both benefits and drawbacks, and suggests focusing on balanced, mindful usage rather than outright criticism or praise.  
+
+4. **The author implies that the negative effects of social media can be mitigated by:**  
+   **Answer:** **C) Encouraging healthy usage habits and digital literacy.**  
+   **Explanation:** Towards the end of the passage, the author suggests promoting healthy habits and digital literacy as productive solutions to mitigate negative impacts.  
+
+5. **Which of the following, if true, would strengthen the critics’ argument?**  
+   **Answer:** **C) Research indicating a direct link between heavy social media use and increased depression rates.**  
+   **Explanation:** Critics argue that social media negatively impacts mental health. Evidence of a direct link between heavy use and increased depression would strongly support their claims.  
