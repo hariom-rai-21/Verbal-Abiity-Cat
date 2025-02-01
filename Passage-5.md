@@ -40,3 +40,27 @@ Despite these challenges, social media remains an integral part of modern life. 
    D) The author supports unlimited freedom on social media without any regulations.  
 
 ---
+
+# **Answers with Explanations:**
+
+1. **What is the primary focus of the passage?**  
+   **Answer:** **C) The benefits and challenges of social media in modern life.**  
+   **Explanation:** The passage discusses both the positive aspects of social media (global connection, social movements, personal expression) and the challenges (misinformation, mental health issues).  
+
+2. **According to the passage, one major issue with social media is:**  
+   **Answer:** **C) The rapid spread of misinformation.**  
+   **Explanation:** The passage specifically highlights how misinformation spreads quickly on social media, influencing public opinion and even political outcomes.  
+
+3. **How does social media affect mental health, as mentioned in the passage?**  
+   **Answer:** **C) It can contribute to anxiety, depression, and low self-esteem.**  
+   **Explanation:** The passage states that exposure to unrealistic standards and constant comparisons on social media can lead to mental health issues, including anxiety and depression.  
+
+4. **Which of the following would best support the author’s suggestion for improving social media’s impact?**  
+   **Answer:** **A) A report showing that stricter content regulations reduced the spread of false news.**  
+   **Explanation:** This would directly support the author’s suggestion of implementing stricter content regulations to address the spread of misinformation.  
+
+5. **What can be inferred about the author’s perspective on social media?**  
+   **Answer:** **C) The author acknowledges both the positive and negative aspects of social media.**  
+   **Explanation:** The author presents a balanced view, acknowledging the benefits of social media while also addressing its challenges and suggesting ways to mitigate the negative impacts.  
+
+---
