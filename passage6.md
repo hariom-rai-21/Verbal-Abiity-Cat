@@ -40,3 +40,28 @@ Achieving sustainable development requires global cooperation and a shift in min
    D) The author supports halting all industrial activities to protect the environment.  
 
 ---
+### **Answers with Explanations:**
+
+1. **What is the main idea of the passage?**  
+   **Answer:** **B) The importance of sustainable development for the future.**  
+   **Explanation:** The passage focuses on the concept of sustainable development, its significance in addressing environmental challenges, and the need for a balanced approach to economic, environmental, and social goals.
+
+2. **According to the passage, sustainable development aims to:**  
+   **Answer:** **C) Balance economic, environmental, and social needs.**  
+   **Explanation:** The passage explicitly states that sustainable development emphasizes balancing economic growth, environmental protection, and social equity.
+
+3. **What are some consequences of unsustainable practices mentioned in the passage?**  
+   **Answer:** **B) Deforestation, pollution, and greenhouse gas emissions.**  
+   **Explanation:** The passage lists these as the outcomes of unchecked industrialization and overconsumption, which are harmful environmental impacts.
+
+4. **Which of the following strategies is suggested to promote sustainable development?**  
+   **Answer:** **C) Adopting eco-friendly technologies and supporting conservation.**  
+   **Explanation:** The passage recommends adopting eco-friendly technologies, promoting renewable energy, and supporting conservation efforts to achieve sustainable development.
+
+5. **What can be inferred about the author’s perspective on sustainable development?**  
+   **Answer:** **C) The author advocates for a balanced approach to growth and environmental care.**  
+   **Explanation:** The author promotes a balanced mindset that values both economic progress and environmental stewardship, suggesting global cooperation and long-term sustainability.
+
+---
+
+
