@@ -42,3 +42,26 @@ Each tax structure has advantages and disadvantages, and governments often combi
    D) The author believes that regressive taxation is the fairest method.  
 
 ---
+### **Answers with Explanations:**  
+
+1. **Which tax system imposes higher rates on individuals with higher incomes?**  
+   **Answer:** **C) Progressive taxation**  
+   **Explanation:** The passage explains that progressive taxation increases tax rates as income rises, ensuring that wealthier individuals contribute more.  
+
+2. **Why is regressive taxation considered unfair to lower-income individuals?**  
+   **Answer:** **B) It places a larger financial burden on those with lower incomes.**  
+   **Explanation:** Regressive taxation, such as sales taxes, affects lower-income individuals more because they spend a higher percentage of their income on necessities.  
+
+3. **Which of the following is an example of proportional taxation?**  
+   **Answer:** **A) A flat income tax where everyone pays the same percentage.**  
+   **Explanation:** Proportional taxation, also called a flat tax, applies the same tax rate to all individuals, regardless of income level.  
+
+4. **What is a major criticism of proportional taxation?**  
+   **Answer:** **B) It does not effectively address income inequality.**  
+   **Explanation:** Critics argue that proportional taxation does not reduce income disparities because higher and lower earners pay the same percentage, which may not be equitable.  
+
+5. **What can be inferred about the author’s perspective on taxation?**  
+   **Answer:** **B) The author supports a combination of tax systems for balance and efficiency.**  
+   **Explanation:** The passage states that governments often mix different tax structures to create a fair and efficient tax system, indicating that a balanced approach is preferred.  
+
+---
