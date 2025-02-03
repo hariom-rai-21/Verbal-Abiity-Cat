@@ -43,3 +43,26 @@ Balancing corporate tax policies is essential for maintaining economic stability
 
 ---
 
+### **Answers with Explanations:**  
+
+1. **What is the primary purpose of corporate tax?**  
+   **Answer:** **B) To generate revenue and regulate economic activities**  
+   **Explanation:** The passage states that corporate taxes help governments raise funds and influence economic policies.  
+
+2. **What is tax inversion?**  
+   **Answer:** **B) A strategy where businesses relocate to countries with lower tax rates**  
+   **Explanation:** The passage explains that tax inversion occurs when companies move their operations to countries with lower corporate tax rates to reduce tax burdens.  
+
+3. **Why do some governments offer tax incentives to businesses?**  
+   **Answer:** **A) To encourage investment and economic growth**  
+   **Explanation:** The passage mentions that governments provide tax incentives to attract businesses and boost economic activity.  
+
+4. **What is double taxation?**  
+   **Answer:** **B) When business profits are taxed both at the corporate and individual levels**  
+   **Explanation:** The passage explains that double taxation occurs when a company's profits are taxed first as corporate income and then again as dividends when distributed to shareholders.  
+
+5. **What can be inferred about the author’s perspective on corporate taxation?**  
+   **Answer:** **B) The author believes corporate taxes should be designed to balance fairness and economic growth**  
+   **Explanation:** The passage emphasizes the importance of balancing tax policies to maintain economic stability while preventing tax evasion.  
+
+---
