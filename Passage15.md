@@ -43,3 +43,26 @@ Governments and educational institutions are recognizing the importance of finan
    D) To eliminate the need for personal savings  
 
 ---
+### **Answers with Explanations:**  
+
+1. **What is financial literacy?**  
+   **Answer:** **B) The knowledge and skills needed to manage personal finances effectively**  
+   **Explanation:** The passage defines financial literacy as understanding budgeting, saving, investing, and debt management to make informed financial decisions.  
+
+2. **Why is budgeting important in financial literacy?**  
+   **Answer:** **B) It ensures that expenses do not exceed income, preventing unnecessary debt**  
+   **Explanation:** Budgeting helps individuals track their income and expenses, allowing them to avoid overspending and financial difficulties.  
+
+3. **How does investing contribute to financial growth?**  
+   **Answer:** **B) By allowing individuals to grow their wealth over time through assets like stocks and bonds**  
+   **Explanation:** Investing helps people increase their wealth by putting money into assets that appreciate in value over time.  
+
+4. **What is a key strategy for managing debt?**  
+   **Answer:** **B) Using credit responsibly and paying off debts efficiently**  
+   **Explanation:** Responsible credit usage and timely debt payments prevent financial stress and excessive interest payments.  
+
+5. **Why are governments and educational institutions promoting financial literacy?**  
+   **Answer:** **C) To help individuals make informed financial decisions, leading to economic stability**  
+   **Explanation:** Educating people about financial literacy ensures they make smart money decisions, reducing financial crises and promoting a stable economy.  
+
+---
