@@ -43,3 +43,27 @@ While AI continues to evolve, its integration into healthcare must be handled wi
    D) Limit AI usage to only administrative tasks in hospitals  
 
 ---
+
+### **Answers with Explanations:**  
+
+1. **What is one primary advantage of AI in healthcare?**  
+   **Answer:** **B) It can analyze vast amounts of medical data quickly and improve diagnostic accuracy**  
+   **Explanation:** The passage states that AI-powered algorithms process large amounts of medical data efficiently, helping detect diseases and improve accuracy in diagnosis.  
+
+2. **How does predictive analytics contribute to patient care?**  
+   **Answer:** **B) By analyzing data to anticipate potential health risks and recommend preventive measures**  
+   **Explanation:** Predictive analytics helps doctors foresee complications by analyzing patient history, genetics, and real-time health data, allowing for proactive healthcare.  
+
+3. **What is a major concern regarding AI in healthcare?**  
+   **Answer:** **C) Data privacy issues and the risk of medical errors due to unreliable AI systems**  
+   **Explanation:** The passage highlights concerns over the security of medical data and the potential consequences of errors in AI-driven medical decisions.  
+
+4. **Why is ethical oversight important in AI-driven healthcare?**  
+   **Answer:** **B) To balance human expertise with AI recommendations and prevent harmful mistakes**  
+   **Explanation:** AI should support, not replace, human judgment in medicine. Ethical oversight ensures that AI complements doctors' expertise and prevents dangerous errors.  
+
+5. **What is the recommended approach to integrating AI into healthcare?**  
+   **Answer:** **B) Use AI cautiously while implementing strict regulations for data security and ethical considerations**  
+   **Explanation:** The passage emphasizes the need for careful AI implementation, requiring strong regulations to ensure ethical use and data protection.  
+
+---
