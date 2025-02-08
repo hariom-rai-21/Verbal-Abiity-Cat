@@ -41,3 +41,27 @@ Despite the BJP's diminished majority, Modi's leadership remained influential. T
    - D) Coalition governments are no longer necessary.
 
 ---
+
+### **Answers with Explanations:**  
+
+1. **What was a significant outcome of the 2024 Indian general elections?**  
+   **Answer:** **B) The BJP lost its parliamentary majority and formed a coalition government.**  
+   **Explanation:** The passage states that while the BJP remained the largest party, it lost its majority and had to form a coalition government for the first time under Modi’s leadership.  
+
+2. **Which regional parties became key allies for the BJP after the 2024 elections?**  
+   **Answer:** **A) Telugu Desam Party (TDP) and Janata Dal (United).**  
+   **Explanation:** The passage mentions that these regional parties played a crucial role in supporting the BJP, reinforcing the influence of regional politics in national governance.  
+
+3. **What did the 2024 election results highlight about India's political system?**  
+   **Answer:** **C) The resilience of India's multiparty system.**  
+   **Explanation:** The results showed that India's democracy continues to be shaped by multiple parties, with regional players having a significant impact.  
+
+4. **How did the BJP respond to losing its parliamentary majority in 2024?**  
+   **Answer:** **B) It formed a coalition government with regional parties.**  
+   **Explanation:** Instead of stepping down, the BJP adapted to the new political reality by building alliances with regional parties to retain power.  
+
+5. **What does the 2024 election outcome suggest about the nature of India's democracy?**  
+   **Answer:** **B) It remains a complex and dynamic multiparty system.**  
+   **Explanation:** The need for coalition-building and the role of regional parties indicate that India's democracy is still multiparty in nature, rather than shifting toward a single-party system.  
+
+---
