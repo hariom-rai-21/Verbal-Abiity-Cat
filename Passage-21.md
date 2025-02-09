@@ -71,3 +71,33 @@ These developments underscore the dynamic political environment in Haryana betwe
    - B) Wrestling
    - C) Hockey
    - D) Football
+---
+### **Answers with Explanations:**  
+
+1. **Which party won the most seats in the 2024 Haryana Legislative Assembly election?**  
+   **Answer:** **B) Bharatiya Janata Party (BJP)**  
+   **Explanation:** BJP secured 48 seats in the 2024 Haryana elections, allowing it to form the government.  
+
+2. **Who became the Chief Minister of Haryana in March 2024 after the BJP-JJP coalition ended?**  
+   **Answer:** **C) Nayab Singh Saini**  
+   **Explanation:** Following the breakup of the BJP-JJP alliance, Nayab Singh Saini was appointed as Chief Minister with support from independent legislators.  
+
+3. **What was a significant concern among Haryana's farmers leading up to the 2024 elections?**  
+   **Answer:** **B) Introduction of three farm laws in 2020**  
+   **Explanation:** Farmers protested against the farm laws, fearing that they would harm their livelihoods and demanded legally mandated Minimum Support Prices (MSP).  
+
+4. **What is the Agnipath Scheme introduced in June 2022?**  
+   **Answer:** **B) A military recruitment program**  
+   **Explanation:** The Agnipath Scheme proposed a four-year term for military recruits, with only 25% continuing in service, raising concerns about job security.  
+
+5. **How did the Haryana government respond to concerns about the Agnipath Scheme?**  
+   **Answer:** **B) By announcing a 10% quota for Agniveers in police and mining guard jobs**  
+   **Explanation:** To address concerns about job stability, the Haryana government reserved 10% of positions in police and mining departments for Agniveers.  
+
+6. **Which issue was highlighted by opposition parties as a major problem in Haryana during the 2024 elections?**  
+   **Answer:** **B) Unemployment and rising inflation**  
+   **Explanation:** The opposition criticized the BJP government for increasing unemployment rates and inflation, making these key election issues.  
+
+7. **Which sport's athletes led protests against the Wrestling Federation of India's former chief in Haryana?**  
+   **Answer:** **B) Wrestling**  
+   **Explanation:** Wrestlers from Haryana protested against Brij Bhushan Sharan Singh, the former WFI chief, over allegations of sexual harassment.  
