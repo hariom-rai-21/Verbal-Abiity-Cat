@@ -58,3 +58,27 @@ These developments underscore the complex interplay of social, economic, and pol
    - D) Subsidies for agricultural development
 
 ---
+
+### **Answers with Explanations:**  
+
+1. **Which party secured the most seats in the 2024 Jharkhand Legislative Assembly election?**  
+   **Answer:** **B) Jharkhand Mukti Morcha (JMM)**  
+   **Explanation:** The passage states that JMM, led by Hemant Soren, won 34 out of 81 seats, making it the party with the most seats in the election.  
+
+2. **What was a central theme of the BJP's campaign in the 2024 Jharkhand elections?**  
+   **Answer:** **B) Religious polarization focusing on "infiltration" by Bangladeshis**  
+   **Explanation:** The passage mentions that BJP's campaign included concerns over "infiltration," "love jihad," and "land jihad," all of which were linked to religious polarization.  
+
+3. **What policy did the previous BJP government implement in 2016 concerning tribal lands?**  
+   **Answer:** **A) Introduction of "land banks"**  
+   **Explanation:** The passage states that the BJP government introduced "land banks" in 2016, which raised concerns about the appropriation of tribal lands by corporations.  
+
+4. **What was the focus of the JMM's campaign regarding tribal identity?**  
+   **Answer:** **B) Implementation of land registers based on a 1932 survey**  
+   **Explanation:** The passage highlights that the JMM campaigned on preserving tribal identity by proposing land registers based on a 1932 survey to determine domicile status.  
+
+5. **What financial demand did Chief Minister Hemant Soren make to the central government?**  
+   **Answer:** **B) Release of ₹1.36 trillion in dues from coal companies**  
+   **Explanation:** The passage states that Soren accused the BJP-led central government of withholding ₹1.36 trillion in dues from coal companies and demanded its release.  
+
+---
