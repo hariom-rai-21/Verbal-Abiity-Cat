@@ -8,7 +8,7 @@ In August 2019, the Indian government abrogated Article 370 of the Constitution,
 
 In March 2020, a Delimitation Commission was established to redraw the electoral boundaries within the Union Territory. The commission's final report, released in May 2022, increased the total number of assembly seats to 90, with a notable addition of six seats in the Jammu division and one in the Kashmir division. This redistricting was significant as it altered the political landscape ahead of future elections.
 
-In December 2023, the Supreme Court of India upheld the abrogation of Article 370, affirming its constitutionality. The court also mandated the Election Commission to conduct legislative assembly elections in Jammu and Kashmir by September 30, 2024, emphasizing the restoration of democratic processes in the region. citeturn0search2
+In December 2023, the Supreme Court of India upheld the abrogation of Article 370, affirming its constitutionality. The court also mandated the Election Commission to conduct legislative assembly elections in Jammu and Kashmir by September 30, 2024, emphasizing the restoration of democratic processes in the region. 
 
 **2024 Legislative Assembly Election**
 
@@ -83,6 +83,49 @@ The newly elected government faces significant challenges, including addressing 
     - B) To conduct legislative assembly elections by September 30, 2024
     - C) To merge Jammu and Kashmir with another state
     - D) To reinstate Article 370
+
+---
+### **Answers to MCQs on Jammu & Kashmir (2020-2024)**  
+
+1. **What significant constitutional change occurred in Jammu and Kashmir in August 2019?**  
+   **Answer:** **B) Abrogation of Article 370**  
+   **Explanation:** The Indian government revoked Article 370, removing Jammu and Kashmir's special status and reorganizing it into two Union Territories.  
+
+2. **How many assembly seats were established in Jammu and Kashmir after the 2022 delimitation?**  
+   **Answer:** **B) 90**  
+   **Explanation:** The Delimitation Commission's report in May 2022 set the number of assembly seats at 90, with additional seats allocated to Jammu and Kashmir divisions.  
+
+3. **Which political alliance won the majority in the 2024 Jammu and Kashmir Legislative Assembly election?**  
+   **Answer:** **B) Jammu and Kashmir National Conference (JKNC) in alliance with INC and CPI(M)**  
+   **Explanation:** The JKNC-led alliance won 49 out of 90 seats, securing a majority over the BJP.  
+
+4. **What was the Supreme Court of India's decision regarding Article 370 in December 2023?**  
+   **Answer:** **C) It upheld the abrogation as constitutional**  
+   **Explanation:** The Supreme Court ruled that the abrogation of Article 370 was constitutional, rejecting challenges against it.  
+
+5. **When were the 2024 Jammu and Kashmir Legislative Assembly elections held?**  
+   **Answer:** **C) September to October 2024**  
+   **Explanation:** The elections were conducted in three phases from September 18 to October 1, 2024, with results announced on October 8.  
+
+6. **Which party emerged as the second-largest in the 2024 elections with the highest vote share?**  
+   **Answer:** **C) Bharatiya Janata Party (BJP)**  
+   **Explanation:** Despite securing 29 seats, BJP had the highest vote share of 26%, but it did not form the government.  
+
+7. **What was a significant public sentiment leading up to the 2024 elections in Jammu and Kashmir?**  
+   **Answer:** **B) Disillusionment and desire to assert regional identity**  
+   **Explanation:** Many voters saw the election as a means to voice their discontent over the abrogation of Article 370 and central government policies.  
+
+8. **What major administrative change occurred in Jammu and Kashmir post-2019?**  
+   **Answer:** **B) It was divided into two Union Territories**  
+   **Explanation:** Jammu and Kashmir was reorganized into two Union Territories: Jammu & Kashmir and Ladakh.  
+
+9. **Which commission was established in March 2020 concerning Jammu and Kashmir?**  
+   **Answer:** **B) Delimitation Commission**  
+   **Explanation:** The Delimitation Commission was tasked with redrawing assembly constituencies in the region, increasing the total number of seats to 90.  
+
+10. **What directive did the Supreme Court give to the Election Commission in December 2023?**  
+    **Answer:** **B) To conduct legislative assembly elections by September 30, 2024**  
+    **Explanation:** The Supreme Court ordered the Election Commission to restore democratic processes by conducting elections before the specified deadline.  
 
 ---
 
