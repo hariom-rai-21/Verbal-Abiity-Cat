@@ -102,3 +102,48 @@ These developments underscore the evolving political dynamics in Delhi, reflecti
     - C) 27 years
     - D) 30 years
 
+
+### **Answers to MCQs on Delhi Elections (2020-2025):**  
+
+1. **How many seats did the Aam Aadmi Party (AAP) win in the 2020 Delhi Legislative Assembly election?**  
+   **Answer:** **B) 62**  
+   **Explanation:** In the 2020 elections, AAP won 62 out of 70 seats, securing a strong mandate for governance.  
+
+2. **Which major event challenged AAP's governance during its tenure from 2020 to 2025?**  
+   **Answer:** **B) Legal issues involving Arvind Kejriwal**  
+   **Explanation:** Arvind Kejriwal faced legal challenges, including allegations of corruption, leading to his imprisonment and political setbacks for AAP.  
+
+3. **In the 2025 Delhi Legislative Assembly election, how many seats did the Bharatiya Janata Party (BJP) secure?**  
+   **Answer:** **C) 48**  
+   **Explanation:** The BJP won 48 seats in the 2025 Delhi elections, regaining control of the Delhi government after 27 years.  
+
+4. **What was a significant factor in the BJP's victory in the 2025 Delhi elections?**  
+   **Answer:** **A) Promises of financial assistance and subsidies**  
+   **Explanation:** BJP's campaign focused on financial aid to the poor, women, and elderly, along with subsidies for essential goods like cooking gas.  
+
+5. **Which party failed to win any seats in the 2025 Delhi Legislative Assembly election?**  
+   **Answer:** **C) Indian National Congress**  
+   **Explanation:** Congress failed to win a single seat in 2025 but increased its vote share by 2%, indirectly affecting AAP's performance.  
+
+6. **What was the increase in vote share for the Indian National Congress in the 2025 Delhi elections?**  
+   **Answer:** **C) 2%**  
+   **Explanation:** Although Congress didn’t win any seats, its vote share increased by 2%, cutting into AAP's margins in key constituencies.  
+
+7. **Which prominent AAP leader lost their constituency in the 2025 Delhi elections?**  
+   **Answer:** **B) Arvind Kejriwal**  
+   **Explanation:** Due to legal troubles and a declining public image, Arvind Kejriwal lost his constituency, contributing to AAP's electoral downfall.  
+
+8. **What was a key criticism the BJP had against AAP during the 2025 election campaign?**  
+   **Answer:** **A) Handling of public services and governance issues**  
+   **Explanation:** The BJP accused AAP of mismanaging public services, leading to dissatisfaction among voters and shifting support towards BJP.  
+
+9. **After the 2025 elections, which state remained under AAP's governance?**  
+   **Answer:** **B) Punjab**  
+   **Explanation:** With AAP losing Delhi, Punjab remained its only state of governance, marking a significant retreat from its previous influence.  
+
+10. **How long had it been since the BJP last held power in Delhi before their 2025 victory?**  
+    **Answer:** **C) 27 years**  
+    **Explanation:** The BJP returned to power in Delhi after 27 years, last ruling the capital in 1998.  
+
+---
+
