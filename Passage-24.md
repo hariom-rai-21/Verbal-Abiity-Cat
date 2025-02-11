@@ -75,3 +75,15 @@ In 2023, the government made the new tax regime the default system while still a
     D) Import-export businesses  
 
 ---
+### **Answers to MCQs on Income Tax (2020-2024)**  
+
+1. **B) Central Board of Direct Taxes (CBDT)**  
+2. **B) Introduction of a new optional tax regime**  
+3. **C) Extension of tax filing deadlines**  
+4. **B) Faceless assessment and appeals system**  
+5. **C) 2023**  
+6. **B) Startups and new businesses**  
+7. **B) Artificial intelligence for fraud detection**  
+8. **B) It did not allow certain deductions and exemptions**  
+9. **A) Introduction of stricter penalties for tax evasion**  
+10. **B) Senior citizens and small taxpayers**  
