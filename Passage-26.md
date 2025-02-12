@@ -2,11 +2,16 @@
 
 India's economic growth between 2020 and 2024 witnessed significant fluctuations due to global and domestic challenges. The COVID-19 pandemic in 2020 caused a sharp contraction in GDP, leading to a record decline of 7.3% in the fiscal year 2020-21. The government responded with fiscal stimulus measures, including direct cash transfers, credit support for businesses, and increased spending on infrastructure projects.  
 
+
+
 By 2021-22, India's economy rebounded strongly, registering a growth rate of 8.7%. The expansion was driven by a resurgence in manufacturing, services, and exports. The "Atmanirbhar Bharat" initiative, aimed at boosting self-reliance, encouraged domestic production in key sectors such as electronics, defense, and renewable energy.  
+
 
 In 2022-23, inflationary pressures, rising interest rates, and geopolitical tensions (including the Russia-Ukraine war) affected India's growth trajectory. The Reserve Bank of India (RBI) took steps to control inflation by raising the repo rate multiple times, making borrowing more expensive. Despite these challenges, India remained one of the fastest-growing major economies, with a GDP growth of around 7%.  
 
+
 The government continued its focus on digitalization and infrastructure, launching initiatives such as the 5G rollout, expansion of the Unified Payments Interface (UPI), and the Gati Shakti plan to improve logistics and connectivity. Foreign Direct Investment (FDI) inflows remained strong, especially in technology and manufacturing sectors.  
+
 
 By 2023-24, India's economy stabilized, with growth projected at around 6.5%. Key drivers included the resilience of the services sector, increased foreign investment, and rising consumer demand. However, risks such as high fiscal deficits, global economic uncertainty, and climate-related challenges remained concerns. The government's emphasis on green energy, electric vehicles, and digital transformation was expected to shape the next phase of economic growth.  
 
@@ -134,7 +139,10 @@ By 2023-24, India's economy stabilized, with growth projected at around 6.5%. Ke
    C) Decrease in manufacturing output  
    D) Drop in foreign reserves  
 
+
+
 ### **Answers to MCQs on India's Economic Growth (2020-2024)**  
+
 
 1. **B) -7.3%**  
 2. **B) Atmanirbhar Bharat**  
