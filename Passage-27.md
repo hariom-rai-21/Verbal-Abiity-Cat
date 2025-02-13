@@ -133,3 +133,27 @@ By 2024, India had positioned itself as a global digital powerhouse, with a thri
    B) AI, fintech, and e-commerce  
    C) Print media industry  
    D) Coal mining  
+---
+
+### **Answers**
+
+1. **B) COVID-19 pandemic**  
+2. **C) Unified Payments Interface (UPI)**  
+3. **B) Enhanced digital connectivity and innovation**  
+4. **C) Digital India**  
+5. **B) Artificial intelligence, fintech, and e-commerce**  
+6. **B) Introducing blockchain-based authentication systems**  
+7. **A) Increase in hacking and data breaches**  
+8. **B) Enhanced security and transparency in record-keeping**  
+9. **A) Strengthening data protection laws**  
+10. **B) A global digital powerhouse**  
+11. **B) Blockchain**  
+12. **B) Growth of a thriving technology ecosystem**  
+13. **A) Healthcare and education**  
+14. **B) Digital India**  
+15. **B) Expansion of internet access and fintech growth**  
+16. **A) AI, cloud computing, and automation**  
+17. **A) More businesses and individuals relied on digital platforms**  
+18. **A) Aadhaar-based authentication and online tax filings**  
+19. **A) Rising cyber threats and data breaches**  
+20. **B) AI, fintech, and e-commerce**  
