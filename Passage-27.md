@@ -132,7 +132,9 @@ By 2024, India had positioned itself as a global digital powerhouse, with a thri
    A) Traditional textile manufacturing  
    B) AI, fintech, and e-commerce  
    C) Print media industry  
-   D) Coal mining  
+   D) Coal mining
+
+
 ---
 
 ### **Answers**
