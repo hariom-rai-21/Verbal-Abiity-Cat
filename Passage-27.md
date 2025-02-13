@@ -1,5 +1,5 @@
 ### **Passage on India's Digital Transformation (2020-2024)**  
-
+  
 India's digital landscape experienced a massive transformation between 2020 and 2024, driven by advancements in technology, government initiatives, and increasing internet penetration. The COVID-19 pandemic accelerated digital adoption, making online education, e-commerce, and digital payments a necessity. The rapid expansion of the Unified Payments Interface (UPI) made India a global leader in digital transactions, with billions of transactions processed monthly.  
 
 The government introduced several policies to support digitalization, including the Digital India program, which focused on improving internet access in rural areas and promoting digital literacy. The rollout of 5G technology in 2022-23 was a game changer, enhancing internet speed and enabling innovations in healthcare, education, and business. Startups in artificial intelligence (AI), fintech, and e-commerce flourished, attracting significant foreign investments.  
