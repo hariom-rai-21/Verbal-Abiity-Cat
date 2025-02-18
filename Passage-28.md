@@ -75,3 +75,18 @@ By 2024, India’s fiscal strategy reflected a **balanced approach**, ensuring e
    B) A balanced approach combining economic resilience with fiscal discipline  
    C) Reducing tax collections to stimulate economic growth  
    D) Eliminating all privatization efforts  
+
+---
+
+### **Answers**  
+
+1. **B) Providing fiscal support, tax reliefs, and boosting manufacturing**  
+2. **C) 9.3% of GDP**  
+3. **C) National Monetization Pipeline (NMP)**  
+4. **B) Streamlining GST with rate rationalization and compliance simplifications**  
+5. **A) 5.9% of GDP**  
+6. **B) To control inflationary pressures**  
+7. **B) Promoting the new tax regime and simplifying income tax slabs**  
+8. **B) Infrastructure, green energy, and digital transformation**  
+9. **B) Rising inflation and global supply chain disruptions**  
+10. **B) A balanced approach combining economic resilience with fiscal discipline**  
