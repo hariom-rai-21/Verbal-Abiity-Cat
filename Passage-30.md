@@ -74,4 +74,17 @@ With a strong emphasis on **cost-effective space missions**, India continued to 
    A) Due to its high-cost missions  
    B) Because it relies only on foreign technology  
    C) For its cost-effective space missions and international collaborations  
-   D) Because it only focuses on defense satellites  
+   D) Because it only focuses on defense satellites
+### **Answers to MCQs on India's Space Exploration Achievements (2020-2024)**  
+
+1. **C) Chandrayaan-3**  
+2. **B) To study the Sun’s outer layers and space weather**  
+3. **C) Gaganyaan**  
+4. **B) To promote private sector participation in India’s space industry**  
+5. **C) Underwater research**  
+6. **C) It was the first successful soft landing near the Moon’s south pole**  
+7. **A) Increased satellite launches and technological innovation**  
+8. **B) It provided insights into solar activity affecting Earth’s climate and satellites**  
+9. **C) Preparing for the Gaganyaan mission**  
+10. **C) For its cost-effective space missions and international collaborations**  
+
