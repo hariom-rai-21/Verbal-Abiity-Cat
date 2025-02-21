@@ -72,4 +72,18 @@ The renewable energy transition also created **millions of new jobs**, especiall
    A) High taxes on green energy projects  
    B) Public and private sector funding  
    C) Ban on foreign investments  
-   D) Dependence on coal-based power plants  
+   D) Dependence on coal-based power plants
+
+### **Answers to MCQs on India's Renewable Energy Transition (2020-2024)**  
+
+1. **B) 500 GW of non-fossil fuel capacity**  
+2. **C) Production-Linked Incentive (PLI) scheme**  
+3. **B) Promote hydrogen-based fuels for industries and transportation**  
+4. **B) International Solar Alliance (ISA)**  
+5. **B) Land acquisition, high initial costs, and grid integration issues**  
+6. **C) Third**  
+7. **B) Floating solar farms**  
+8. **B) Creation of millions of jobs in solar panel manufacturing and maintenance**  
+9. **B) Helped integrate renewable energy into the national grid efficiently**  
+10. **B) Public and private sector funding**  
+
