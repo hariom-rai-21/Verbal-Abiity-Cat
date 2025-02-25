@@ -1,5 +1,5 @@
 
-### **Passage:**  
+### **Passage:**         
 In recent years, the debate over the impact of social media on mental health has gained significant attention. Proponents argue that social media fosters connections, enables the sharing of ideas, and provides a platform for marginalized voices. They believe it bridges geographical divides, allowing people to maintain relationships and build communities beyond physical limitations.  
 
 However, critics highlight the darker side of social media. Studies have shown correlations between excessive social media use and increased feelings of anxiety, depression, and loneliness. The curated nature of online content often promotes unrealistic standards of success, beauty, and happiness, leading individuals to engage in constant comparison, which can erode self-esteem.  
