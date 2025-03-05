@@ -108,6 +108,4 @@ d) It caused disappointment due to performance issues
 
 **Answer:** b) It sparked massive celebrations across the country
 
----
 
-Let me know if you'd like further adjustments!
