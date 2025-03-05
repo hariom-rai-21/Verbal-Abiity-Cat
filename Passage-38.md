@@ -1,4 +1,4 @@
-Sure! Here's a passage about the 2015 Cricket World Cup, followed by 10 questions based on it:
+
 
 ---
 
