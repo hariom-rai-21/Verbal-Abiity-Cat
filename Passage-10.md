@@ -1,9 +1,9 @@
 ### **Passage:**  
 Progressive, regressive, and proportional taxation are three fundamental tax structures used by governments worldwide to collect revenue. **Progressive taxation** imposes higher tax rates on individuals with higher incomes, ensuring that wealthier citizens contribute a larger share of their earnings. This system is designed to promote economic equity by reducing income inequality. Examples include income tax brackets where tax rates increase as earnings rise.  
 
-**Regressive taxation**, on the other hand, places a greater financial burden on lower-income individuals. In this system, everyone pays the same amount or percentage, regardless of their income level. Since lower-income earners spend a larger proportion of their earnings on basic necessities, regressive taxes, such as sales taxes and excise duties, tend to affect them more than the wealthy.  
+**Regressive taxation**,  on the other hand, places a greater financial burden on lower-income individuals. In this system, everyone pays the same amount or percentage, regardless of their income level. Since lower-income earners spend a larger proportion of  their earnings on basic necessities, regressive taxes, such as sales taxes and excise duties, tend to affect them  more than the wealthy.  
 
-Lastly, **proportional taxation**, also known as a flat tax, applies the same tax rate to all individuals, regardless of their income level. This system is considered neutral, as everyone pays the same percentage, ensuring simplicity and ease of administration. However, critics argue that it does not address income disparities effectively.  
+Lastly, **proportional taxation**, also known as a flat tax, applies the same tax rate to all individuals, regardless of their income level. This system is considered neutral, as everyone  pays the same percentage, ensuring simplicity and ease of administration. However, critics argue that it does not address income disparities effectively.  
 
 Each tax structure has advantages and disadvantages, and governments often combine different methods to create a balanced and efficient tax system. The choice of tax policy depends on economic goals, social priorities, and public perceptions of fairness.  
 
