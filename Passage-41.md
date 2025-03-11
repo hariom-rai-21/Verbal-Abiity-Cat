@@ -2,6 +2,7 @@
 
 Between 2020 and 2024, the **United States continued to lead global space exploration**, with major advancements in both government-led and private  sector missions. NASA focused on the **Artemis program**, which aimed to return humans to the Moon for the first time since 1972. **Artemis I**, an uncrewed mission, successfully launched in 2022, testing the **Orion spacecraft** and the **Space Launch System (SLS)**. The next phase, **Artemis II**, planned for 2024, aimed to send astronauts on a lunar flyby.  
 
+   
 The private space industry, led by companies like **SpaceX, Blue Origin, and Boeing**, played a crucial role in expanding commercial space travel. SpaceX's **Starship rocket** became central to NASA’s plans for a Moon landing, while its **Crew Dragon missions** continued transporting astronauts to the **International Space Station (ISS)**. The rise of **space tourism** saw private citizens traveling beyond Earth's atmosphere, with **Blue Origin and Virgin Galactic** launching suborbital flights.  
 
 Meanwhile, the U.S. also expanded its **Mars exploration efforts**,  supporting missions like the **Perseverance rover** and **Ingenuity helicopter**, which provided critical data about the Martian surface. NASA also worked on developing **nuclear-powered propulsion systems** to make deep-space travel faster and more efficient.  
