@@ -1,8 +1,8 @@
 ### **Passage on U.S. Healthcare Reforms (2020-2024)**  
 
-Between 2020 and 2024, the **U.S. healthcare system** underwent significant reforms aimed at improving affordability, accessibility, and public health response. The **COVID-19 pandemic** highlighted weaknesses in the system, leading to increased government intervention to strengthen medical infrastructure, expand insurance coverage, and improve preparedness for future health crises.  
+Between 2020 and 2024, the **U.S. healthcare system**  underwent significant reforms aimed at improving affordability, accessibility, and public health response. The **COVID-19  pandemic** highlighted weaknesses in the system, leading to increased government intervention to strengthen  medical infrastructure, expand insurance coverage, and improve preparedness for future health crises.  
 
-The **American Rescue Plan (2021)** introduced temporary **subsidies for the Affordable Care Act (ACA)**, making health insurance more affordable for millions of Americans. The Biden administration also sought to lower **prescription drug costs**, particularly for senior citizens, by allowing Medicare to negotiate drug prices. The **Inflation Reduction Act (2022)** further expanded these efforts by capping insulin prices and reducing out-of-pocket costs for Medicare recipients.  
+The **American Rescue Plan (2021)**  introduced temporary **subsidies for the Affordable Care Act (ACA)**, making health insurance more affordable for  millions of Americans. The Biden administration also sought to lower **prescription drug costs**,  particularly for senior citizens, by allowing Medicare to negotiate drug prices. The **Inflation Reduction Act (2022)** further expanded these efforts by capping insulin prices and reducing out-of-pocket costs for Medicare recipients.  
 
 Telemedicine saw rapid expansion during this period, allowing patients to access healthcare remotely. This was particularly beneficial in **rural areas** where medical facilities were scarce. Investments in **mental health services** also increased, as public awareness about mental health grew after the pandemic.  
 
