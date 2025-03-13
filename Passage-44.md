@@ -14,19 +14,19 @@ As the **2024 presidential election** approached, economic inequality remained a
 
 ### **MCQs Based on the Passage**  
 
-1. **Which event worsened income inequality in the U.S. between 2020-2024?**  
+1. **Which event  worsened income inequality in the U.S. between 2020-2024?**  
    A) The rise of cryptocurrency  
    B) COVID-19 pandemic  
    C) The U.S.-China trade deal  
    D) The decline of social media companies  
 
-2. **What financial assistance did the U.S. government provide to struggling households?**  
+2. **What financial  assistance did the U.S. government provide to struggling households?**  
    A) Investment in stock markets  
    B) Stimulus checks and unemployment benefits  
    C) Tax cuts for billionaires  
    D) Reduction in public school funding  
 
-3. **Why did inflation in 2022-2023 worsen economic inequality?**  
+3. **Why did inflation  in 2022-2023 worsen economic inequality?**  
    A) It reduced government revenues  
    B) It caused an increase in CEO salaries  
    C) It raised the cost of essential goods for lower-income families  
@@ -39,7 +39,7 @@ As the **2024 presidential election** approached, economic inequality remained a
    D) Banning online banking  
 
 5. **Why was there a push for higher taxes on wealthy individuals and corporations?**  
-   A) To fund social programs like healthcare and education  
+   A) To  fund social programs like healthcare and education  
    B) To increase stock market investments  
    C) To reduce government spending  
    D) To eliminate all private businesses  
@@ -68,7 +68,7 @@ As the **2024 presidential election** approached, economic inequality remained a
    C) It would only benefit business owners  
    D) It would not impact lower-income workers  
 
-10. **Why was economic inequality a major topic in the 2024 presidential election?**  
+10. **Why  was economic  inequality a major topic in the 2024 presidential election?**  
    A) It influenced debates on taxation, wages, and government intervention  
    B) It had no impact on political discussions  
    C) It was only discussed in the technology sector  
@@ -78,7 +78,7 @@ As the **2024 presidential election** approached, economic inequality remained a
 ### **Answers to MCQs on U.S. Economic Inequality (2020-2024)**  
 
 1. **B) COVID-19 pandemic**  
-2. **B) Stimulus checks and unemployment benefits**  
+2. **B) Stimulus  checks and unemployment benefits**  
 3. **C) It raised the cost of essential goods for lower-income families**  
 4. **B) Increasing the federal minimum wage**  
 5. **A) To fund social programs like healthcare and education**  
@@ -86,4 +86,4 @@ As the **2024 presidential election** approached, economic inequality remained a
 7. **B) By introducing partial loan forgiveness for eligible borrowers**  
 8. **B) Large corporations and major businesses**  
 9. **A) It might lead to job losses in certain industries**  
-10. **A) It influenced debates on taxation, wages, and government intervention**  
+10. **A) It influenced  debates on taxation, wages, and government intervention**  
