@@ -1,12 +1,12 @@
 ### **Passage on U.S. Energy Policies (2020-2024)**  
 
-Between 2020 and 2024, the **United States shifted its energy policies** to focus on clean energy, energy independence, and reducing reliance on fossil fuels. The **Biden administration** rejoined the **Paris Climate Agreement** in 2021, signaling a renewed commitment to combating climate change. A major step in this direction was the **Inflation Reduction Act (2022)**, which provided **billions of dollars in tax credits and subsidies for renewable energy projects** such as **solar, wind, and nuclear power**.  
+Between 2020 and 2024,  the **United States shifted its energy policies** to focus on clean energy, energy independence, and reducing reliance on fossil fuels. The **Biden administration** rejoined the **Paris Climate Agreement**  in 2021, signaling a renewed commitment to combating climate change. A major step in this direction was the **Inflation Reduction Act (2022)**, which provided **billions  of dollars in tax credits and subsidies for renewable energy projects** such as **solar, wind, and nuclear power**.  
 
-One of the biggest developments in energy policy was the push for **electric vehicles (EVs)**. The U.S. government provided **tax incentives** for EV buyers and funded **charging infrastructure** nationwide. Companies like **Tesla, Ford, and General Motors** expanded their EV production to meet rising demand.  
+One of the  biggest developments in energy policy was  the push for **electric vehicles (EVs)**. The U.S. government provided **tax incentives** for EV buyers and funded **charging infrastructure** nationwide.  Companies like **Tesla, Ford, and General Motors** expanded their EV production to meet rising demand.  
 
-Despite these efforts, **oil and gas production remained high**, as global energy demand and geopolitical conflicts, such as the **Russia-Ukraine war**, disrupted fuel supply chains. The U.S. continued to export **liquefied natural gas (LNG)** while also trying to lower **domestic gasoline prices** through **strategic petroleum reserves (SPR) releases**.  
+Despite  these efforts, **oil and gas production remained high**, as global  energy demand  and geopolitical conflicts, such as the **Russia-Ukraine war**, disrupted fuel supply chains. The U.S. continued to export **liquefied natural gas (LNG)** while also trying to lower **domestic gasoline prices** through **strategic petroleum reserves (SPR) releases**.  
 
-By 2024, **nuclear energy** re-emerged as a key focus, with investments in **next-generation reactors and small modular reactors (SMRs)**. Meanwhile, debates over **fossil fuel regulations, energy independence, and the transition to clean energy** shaped political discourse, making energy policy a major issue in the upcoming **presidential election**.  
+By 2024, **nuclear energy** re-emerged as a key focus, with investments in **next-generation reactors and small modular reactors (SMRs)**. Meanwhile, debates over **fossil fuel regulations, energy independence, and the transition to clean energy** shaped political  discourse, making energy policy a major issue in the upcoming **presidential election**.  
 
 ---  
 
