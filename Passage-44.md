@@ -1,12 +1,12 @@
 ### **Passage on U.S. Economic Inequality (2020-2024)**  
 
-Between 2020 and 2024, **economic inequality** remained a major issue in the United States, with debates over wages, taxation, and wealth distribution shaping political discourse. The **COVID-19 pandemic** worsened income disparities, as lower-income workers in industries such as retail, hospitality, and food services faced **job losses and financial instability**, while higher-income individuals in technology and finance sectors saw their wealth grow.  
+Between 2020 and 2024, **economic inequality** remained a major issue in the United States, with debates over wages, taxation, and wealth distribution shaping political discourse. The **COVID-19 pandemic**  worsened income disparities, as lower-income workers in industries such as retail, hospitality, and food services faced **job losses and financial instability**, while higher-income individuals in technology and finance sectors saw their wealth grow.  
 
-In response, the U.S. government introduced **stimulus checks, expanded unemployment benefits, and rental assistance programs** to support struggling households. However, inflation in **2022 and 2023** led to rising costs for essential goods, disproportionately affecting lower-income families.  
+In response, the U.S. government introduced **stimulus checks, expanded unemployment benefits, and rental assistance programs** to support struggling households. However, inflation in **2022 and 2023** led to  rising costs for essential goods, disproportionately affecting lower-income families.  
 
-The **minimum wage debate** intensified, with progressive lawmakers pushing for a **federal minimum wage increase**, while businesses and conservatives raised concerns about potential job losses. Meanwhile, corporate profits and CEO salaries hit record highs, prompting calls for **higher taxes on the wealthy** to fund social programs such as **affordable housing, healthcare, and education**.  
+The **minimum wage debate** intensified, with  progressive lawmakers pushing for a **federal minimum wage increase**, while businesses and conservatives raised concerns about potential job losses. Meanwhile,  corporate profits and CEO salaries hit record highs, prompting calls for **higher taxes on the wealthy** to fund social programs such as **affordable housing, healthcare, and education**.  
 
-Another area of focus was the **racial wealth gap**, with policymakers advocating for measures to support **minority-owned businesses and homeownership opportunities**. Student loan debt relief was also a key issue, with the **Biden administration introducing partial loan forgiveness** for eligible borrowers.  
+Another area of focus was the **racial wealth gap**,  with  policymakers  advocating  for measures to support **minority-owned businesses and homeownership opportunities**. Student loan debt relief was also a key issue, with the **Biden administration introducing partial loan forgiveness** for eligible borrowers.  
 
 As the **2024 presidential election** approached, economic inequality remained a critical topic, with debates over **taxation, wages, and government intervention** influencing voter preferences.  
 
