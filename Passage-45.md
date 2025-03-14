@@ -2,11 +2,11 @@
 
 Between 2020 and 2024, the **United States' foreign trade policies** focused on strengthening domestic industries, managing global trade tensions, and ensuring economic stability. The **U.S.-China trade war**, which began during the Trump administration, continued under **President Joe Biden**, with tariffs remaining on billions of dollars' worth of Chinese goods. The U.S. government also **restricted the export of advanced semiconductor technology** to China to maintain its technological edge.  
 
-To reduce reliance on Chinese manufacturing, the **CHIPS and Science Act (2022)** was introduced, providing billions in incentives for domestic semiconductor production. Additionally, the **Inflation Reduction Act (2022)** promoted domestic manufacturing in **clean energy, electric vehicles, and renewable technology**, aiming to boost U.S. economic independence.  
+To reduce reliance on Chinese manufacturing,  the **CHIPS and Science Act (2022)** was introduced, providing billions in incentives for domestic semiconductor production. Additionally, the **Inflation Reduction Act (2022)** promoted domestic manufacturing in **clean energy, electric vehicles, and renewable technology**, aiming to boost U.S. economic independence.  
 
 Trade relations with **Europe and North America** remained strong, particularly through agreements like the **U.S.-Mexico-Canada Agreement (USMCA)**, which replaced NAFTA. The U.S. also strengthened economic ties with **India and Southeast Asia** to counterbalance China’s influence in global trade.  
 
-However, global events such as the **Russia-Ukraine war** caused disruptions in energy and food supply chains, leading to trade policy adjustments, including **sanctions on Russian oil and financial institutions**. Meanwhile, the U.S. played a leading role in **global economic forums** like the G7 and WTO, advocating for fair trade policies and climate-related trade initiatives.  
+However, global events such as the **Russia-Ukraine war**  caused disruptions in energy and food supply chains, leading to trade policy adjustments, including **sanctions on Russian oil and financial institutions**. Meanwhile, the U.S. played a leading role in **global economic forums** like the G7 and WTO, advocating for fair trade policies and climate-related trade initiatives.  
 
 By 2024, as the **presidential election approached**, debates over **trade tariffs, economic independence, and foreign competition** became central issues, influencing both domestic manufacturing and international trade policies.  
 
