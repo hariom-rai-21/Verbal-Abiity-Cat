@@ -4,7 +4,7 @@ Between 2020 and 2024, **healthcare reforms** remained a central issue in the Un
 
 One major policy shift was the government’s push to **reduce prescription drug prices**, allowing **Medicare to negotiate drug costs** with pharmaceutical companies for the first time. This move aimed to lower out-of-pocket expenses for senior citizens and reduce the financial burden on the healthcare system.  
 
-Additionally, **mental health services** received increased funding, with a focus on addressing the rising rates of **anxiety, depression, and opioid addiction**. The government also **expanded telemedicine services**, making healthcare more accessible to rural and underserved communities.  
+Additionally, **mental health services** received increased funding,  with a focus on addressing the rising rates of **anxiety, depression, and opioid addiction**. The government also **expanded telemedicine services**, making healthcare  more accessible to rural and underserved communities.  
 
 Public health policies were also shaped by the long-term impact of the **COVID-19 pandemic**, with continued investment in **pandemic preparedness, vaccine research, and hospital infrastructure**. However, debates over **government spending on healthcare, private insurance vs. universal healthcare, and Medicaid expansion** remained key issues in the **2024 presidential election**, with both political parties offering different visions for the future of healthcare in America.  
 
