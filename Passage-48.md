@@ -1,6 +1,6 @@
 ### **Passage on U.S. Healthcare Reforms (2020-2024)**  
 
-Between 2020 and 2024, **healthcare reforms** remained a central issue in the United States, with efforts to improve affordability, expand access, and strengthen the healthcare system after the COVID-19 pandemic. The **Biden administration** focused on strengthening the **Affordable Care Act (ACA)**, expanding subsidies to make health insurance more affordable for millions of Americans.  
+Between 2020 and 2024, **healthcare reforms** remained a central issue in the United States, with efforts to improve affordability, expand  access, and strengthen the healthcare system after the COVID-19 pandemic. The **Biden administration** focused on  strengthening the **Affordable Care Act (ACA)**, expanding subsidies to make health insurance more affordable for millions of Americans.  
 
 One major policy shift was the government’s push to **reduce prescription drug prices**, allowing **Medicare to negotiate drug costs** with pharmaceutical companies for the first time. This move aimed to lower out-of-pocket expenses for senior citizens and reduce the financial burden on the healthcare system.  
 
