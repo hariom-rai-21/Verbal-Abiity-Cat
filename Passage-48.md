@@ -19,12 +19,12 @@ Public health policies were also shaped by the long-term impact of the **COVID-1
    D) Medicaid Replacement Act  
 
 2. **What policy change helped lower prescription drug prices?**  
-   A) Medicare was allowed to negotiate drug costs with pharmaceutical companies  
+   A) Medicare was allowed to negotiate drug costs  with pharmaceutical companies  
    B) The U.S. government banned all prescription drugs  
    C) The creation of a free healthcare system  
    D) The elimination of drug regulations  
 
-3. **Which healthcare service saw increased investment to help rural communities?**  
+3. **Which healthcare service saw increased investment  to help rural communities?**  
    A) Expanding hospital parking lots  
    B) Telemedicine services  
    C) New military hospitals  
