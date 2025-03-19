@@ -8,7 +8,7 @@ Despite these efforts, **climate policy remained a highly debated issue**.   Cri
 
 Extreme weather events, including **wildfires, hurricanes, and heatwaves**, intensified discussions on climate resilience. The government **increased funding for disaster preparedness and infrastructure  adaptation** to protect vulnerable communities.  
 
-As the **2024 presidential election approached**,  climate policy became a major political issue, with different candidates proposing contrasting approaches to balancing **economic growth, environmental protection, and energy independence**.  
+As the **2024 presidential election approached**,  climate policy  became a major political issue,  with different candidates proposing contrasting approaches to balancing **economic growth, environmental protection, and energy independence**.  
 
 ---  
 
