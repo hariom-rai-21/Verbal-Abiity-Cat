@@ -4,11 +4,11 @@ Between 2020 and 2024, the **United States took significant steps to combat clim
 
 One of the key focuses of climate policy was the **transition from fossil fuels to renewable energy sources** such as **solar, wind, and nuclear energy**. The government provided **tax credits and subsidies** to businesses and homeowners adopting green energy solutions. Additionally, stricter **environmental regulations** were imposed on industries to limit carbon emissions.  
 
-Despite these efforts, **climate policy remained a highly debated issue**. Critics argued that **phasing out fossil fuels too quickly could harm the economy and lead to job losses** in traditional energy sectors like coal, oil, and natural gas. Meanwhile, proponents emphasized that **investing in renewable energy would create new jobs and boost economic growth**.  
+Despite these efforts, **climate policy remained a highly debated issue**.   Critics argued that **phasing out fossil fuels too quickly could harm the economy and lead to job losses** in traditional energy sectors like coal, oil, and natural gas. Meanwhile, proponents emphasized that **investing in renewable energy would create new jobs and boost economic growth**.  
 
-Extreme weather events, including **wildfires, hurricanes, and heatwaves**, intensified discussions on climate resilience. The government **increased funding for disaster preparedness and infrastructure adaptation** to protect vulnerable communities.  
+Extreme weather events, including **wildfires, hurricanes, and heatwaves**, intensified discussions on climate resilience. The government **increased funding for disaster preparedness and infrastructure  adaptation** to protect vulnerable communities.  
 
-As the **2024 presidential election approached**, climate policy became a major political issue, with different candidates proposing contrasting approaches to balancing **economic growth, environmental protection, and energy independence**.  
+As the **2024 presidential election approached**,  climate policy became a major political issue, with different candidates proposing contrasting approaches to balancing **economic growth, environmental protection, and energy independence**.  
 
 ---  
 
