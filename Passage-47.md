@@ -14,25 +14,25 @@ As the **2024 presidential election approached**,  climate policy  became a majo
 
 ### **MCQs Based on the Passage**  
 
-1. **What major international climate agreement did the U.S. rejoin in 2021?**  
+1. **What major international  climate agreement did the U.S. rejoin in 2021?**  
    A) Kyoto Protocol  
    B) Paris Climate Agreement  
    C) Green Energy Pact  
    D) Global Environmental Compact  
 
-2. **Which legislation provided significant investments in clean energy and carbon reduction?**  
+2. **Which legislation provided  significant investments in clean energy and carbon reduction?**  
    A) The Green Tax Act  
    B) The Renewable Energy Act  
    C) The Inflation Reduction Act  
    D) The Industrial Growth Act  
 
-3. **Which energy sources were prioritized in the transition away from fossil fuels?**  
+3. **Which energy sources were  prioritized in the transition away from fossil fuels?**  
    A) Coal and oil  
    B) Solar, wind, and nuclear energy  
    C) Diesel and gasoline  
    D) Wood and biomass  
 
-4. **How did the government encourage businesses and homeowners to adopt green energy solutions?**  
+4. **How did the government encourage  businesses and homeowners to adopt green energy solutions?**  
    A) By banning fossil fuel use  
    B) By providing tax credits and subsidies  
    C) By increasing electricity prices  
