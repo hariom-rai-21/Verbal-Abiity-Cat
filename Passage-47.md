@@ -1,6 +1,6 @@
 ### **Passage on U.S. Climate Policies (2020-2024)**  
 
-Between 2020 and 2024, the **United States took significant steps to combat climate change** and promote sustainability. Under the **Biden administration**, the U.S. **rejoined the Paris Climate Agreement** in 2021, signaling a renewed commitment to reducing greenhouse gas emissions. The government introduced the **Inflation Reduction Act (IRA) in 2022**, which included historic investments in **clean energy, electric vehicles, and carbon reduction programs**.  
+Between 2020 and 2024, the **United States took significant steps to combat climate change**   and promote sustainability. Under the **Biden administration**, the U.S. **rejoined the Paris Climate Agreement** in 2021, signaling a renewed commitment to reducing greenhouse gas emissions. The government introduced the **Inflation Reduction Act (IRA) in 2022**, which included historic investments in **clean energy,  electric vehicles, and carbon reduction programs**.  
 
 One of the key focuses of climate policy was the **transition from fossil fuels to renewable energy sources** such as **solar, wind, and nuclear energy**. The government provided **tax credits and subsidies** to businesses and homeowners adopting green energy solutions. Additionally, stricter **environmental regulations** were imposed on industries to limit carbon emissions.  
 
