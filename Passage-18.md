@@ -6,7 +6,7 @@ In the 2020 Bihar Legislative  Assembly elections, the National Democratic  Alli
 
 **2024 Lok Sabha Elections**
 
-The 2024 Lok Sabha elections witnessed the NDA maintaining its stronghold in Bihar, winning 30 out of 40 seats. However, this marked a decrease from their previous tally, with losses in constituencies such as Kishanganj, Katihar, Purnia, Jahanabad, Patliputra, Arrah, Buxar, Aurangabad, and Sasaram. The INDIA bloc secured nine seats, and independent candidate Pappu Yadav won the Purnia constituency. 
+The 2024 Lok Sabha elections witnessed the NDA maintaining its  stronghold in Bihar, winning 30 out of 40 seats. However, this marked a decrease from their previous tally, with  losses in constituencies such as Kishanganj, Katihar, Purnia, Jahanabad, Patliputra, Arrah, Buxar, Aurangabad, and Sasaram. The INDIA bloc  secured nine seats, and independent candidate Pappu Yadav won the Purnia constituency. 
 
 **Shifts in Political Alliances**
 
