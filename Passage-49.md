@@ -4,7 +4,7 @@ Between 2020 and 2024, **Russia faced significant geopolitical and economic  cha
 
 Russia's economy faced **inflation, reduced foreign investment, and technological setbacks** due to restricted  access to  Western semiconductor and defense technologies. However, despite these challenges, **Russia maintained its oil and gas exports**, redirecting supplies to  countries like **China, India, and Turkey**. The **ruble fluctuated**, but the government implemented **economic stabilization measures**, including increasing trade in non-dollar currencies.  
 
-On the military front, **Russia expanded its defense alliances with Iran, North Korea, and China**, increasing arms trade and joint military exercises. Domestically, the Russian government tightened control over **media, political opposition, and digital platforms**, leading to growing tensions between **pro-government and opposition groups**.  
+On the military front, **Russia expanded its defense alliances with Iran,  North Korea, and China**, increasing arms  trade and joint military exercises. Domestically, the Russian government tightened control over **media, political  opposition, and digital platforms**, leading to growing tensions between **pro-government and opposition groups**.  
 
 As the **2024 Russian presidential election** approached, President **Vladimir Putin remained in power**, with limited opposition due to government crackdowns on dissent. Russia’s global standing remained heavily influenced by its **foreign policy decisions, military actions, and economic resilience** amid ongoing international tensions.  
 
