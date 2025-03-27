@@ -1,6 +1,6 @@
 ### **Passage on Income Tax in India (2020-2024)**  
 
-Income tax in India is governed by the Income Tax Act, 1961, and is collected by the Central Board of Direct Taxes (CBDT) under the Ministry of Finance. Over the years, the government has introduced various reforms to simplify tax compliance, improve transparency, and encourage voluntary tax payments. Between 2020 and 2024, significant changes were made to the income tax system to boost economic growth and widen the tax base.
+Income tax in India is governed by the Income Tax Act, 1961, and is collected  by the Central Board of Direct Taxes (CBDT) under the Ministry of Finance. Over the years, the government has  introduced various reforms to simplify tax compliance, improve transparency, and encourage voluntary tax payments. Between 2020 and 2024, significant changes were made to the income tax system to boost economic growth and widen the tax base.
 
 In 2020, the government introduced a new optional  tax  regime  under which individuals could pay lower tax rates if they chose to forgo certain deductions and exemptions. This regime aimed to simplify tax filing but did not see widespread adoption initially, as many taxpayers preferred the traditional system with deductions for expenses like house rent, provident fund contributions, and insurance premiums.
 
