@@ -2,9 +2,9 @@
   
 India's digital landscape experienced a massive transformation between 2020 and 2024, driven by advancements in technology, government initiatives, and increasing internet penetration.  The COVID-19 pandemic accelerated digital adoption, making online education, e-commerce, and digital payments a necessity.  The rapid expansion of the Unified Payments Interface (UPI) made India a global leader in digital transactions, with billions of transactions processed monthly.  
 
-The government introduced several policies to  support digitalization, including the Digital India program, which focused on improving internet access in rural  areas and promoting digital literacy. The rollout of 5G technology in 2022-23 was a game changer, enhancing internet speed and enabling innovations in healthcare, education, and business. Startups in artificial intelligence (AI), fintech, and e-commerce flourished, attracting significant foreign investments.  
+The government introduced several policies to  support digitalization, including the Digital India program, which focused on improving internet access in rural  areas and promoting digital literacy. The rollout of 5G technology in 2022-23 was a game changer, enhancing internet speed and enabling innovations in healthcare, education, and business. Startups in artificial intelligence (AI), fintech, and e-commerce flourished,  attracting significant foreign investments.  
 
-E-governance also advanced, with services like Aadhaar-based authentication, digital health records, and online tax filings becoming more efficient. The adoption of blockchain technology for secure transactions and record-keeping gained momentum in both public and private sectors.  
+E-governance also advanced, with services like Aadhaar-based authentication,  digital health records, and online tax filings becoming more efficient. The adoption of blockchain technology for  secure transactions and record-keeping gained momentum in both public and private sectors.  
 
 Cybersecurity challenges, however, remained a concern as cyberattacks and data breaches increased with the growing reliance on digital platforms. The government responded by strengthening data protection laws and launching cybersecurity awareness campaigns.  
 
