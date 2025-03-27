@@ -1,6 +1,6 @@
 Passage:
 
-The 2011 ICC Cricket World Cup was the tenth edition of the tournament, and it was co-hosted by India, Sri Lanka, and Bangladesh from February 19 to April 2, 2011. This World Cup marked a historic moment in cricket history as India won their second World Cup, after their first win in 1983. The tournament featured 14 teams and saw some memorable performances.
+The 2011 ICC Cricket World Cup was the tenth edition of  the  tournament, and it was co-hosted by India, Sri Lanka, and Bangladesh from February 19 to April 2, 2011. This World  Cup marked a historic moment in cricket history as India won their second World Cup, after their first win in 1983. The tournament featured 14 teams and saw some memorable performances.
 
 India, led by captain MS Dhoni, had a strong campaign, and the final was played at the Wankhede Stadium in Mumbai. The final match saw India face Sri Lanka in front of a packed crowd. Sri Lanka batted first and set a target of 275 runs, thanks to a superb knock by Mahela Jayawardene, who scored an unbeaten 103. India chased down the target with 6 wickets in hand, with MS Dhoni playing a match-winning knock of 91* and Gautam Gambhir contributing 97 runs. Dhoni’s calm and composed performance earned him the Man of the Match award.
 
