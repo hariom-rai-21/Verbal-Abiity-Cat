@@ -2,7 +2,7 @@
 
 Income tax in India is governed by the Income Tax Act, 1961, and is collected by the Central Board of Direct Taxes (CBDT) under the Ministry of Finance. Over the years, the government has introduced various reforms to simplify tax compliance, improve transparency, and encourage voluntary tax payments. Between 2020 and 2024, significant changes were made to the income tax system to boost economic growth and widen the tax base.
 
-In 2020, the government introduced a new optional tax regime under which individuals could pay lower tax rates if they chose to forgo certain deductions and exemptions. This regime aimed to simplify tax filing but did not see widespread adoption initially, as many taxpayers preferred the traditional system with deductions for expenses like house rent, provident fund contributions, and insurance premiums.
+In 2020, the government introduced a new optional  tax  regime  under which individuals could pay lower tax rates if they chose to forgo certain deductions and exemptions. This regime aimed to simplify tax filing but did not see widespread adoption initially, as many taxpayers preferred the traditional system with deductions for expenses like house rent, provident fund contributions, and insurance premiums.
 
 During the COVID-19 pandemic, the government provided relief measures such as extensions of tax filing deadlines and reductions in late fees to support taxpayers. The pandemic also accelerated the digitalization of tax processes, with initiatives like the faceless assessment and appeals system, which reduced the need for physical interaction between taxpayers and tax officers.
 
