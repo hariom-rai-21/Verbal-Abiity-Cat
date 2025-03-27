@@ -2,7 +2,7 @@ Between 2020 and 2024, Bihar's political landscape underwent significant transfo
 
 **2020 Bihar Legislative Assembly Election**
 
-In the 2020 Bihar Legislative  Assembly elections, the  National Democratic  Alliance (NDA), comprising the Bharatiya Janata Party (BJP) and Janata Dal  (United) [JD(U)],  secured a  majority with 125 out of 243 seats. The Rashtriya Janata Dal (RJD) emerged as the  single largest party with 75  seats, while the BJP  won 74 seats, and the JD(U) secured 43 seats. Nitish Kumar of the JD(U) continued as Chief Minister, underscoring the NDA's  dominance in the state. 
+In the 2020 Bihar Legislative  Assembly elections, the  National Democratic  Alliance (NDA), comprising the Bharatiya Janata Party (BJP) and Janata Dal  (United) [JD(U)],  secured a  majority with 125 out of 243 seats. The Rashtriya Janata Dal (RJD) emerged as the  single largest party  with 75  seats, while the BJP  won 74 seats, and the JD(U) secured 43 seats. Nitish Kumar of the JD(U) continued  as Chief Minister, underscoring the NDA's  dominance in the state. 
 
 **2024 Lok Sabha Elections**
 
