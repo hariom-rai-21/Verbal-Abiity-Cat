@@ -8,7 +8,7 @@ E-governance also advanced, with services like  Aadhaar-based authentication,  d
 
 Cybersecurity challenges, however, remained a concern as cyberattacks and data breaches increased with the growing reliance on digital platforms. The government responded by strengthening data protection laws and launching cybersecurity awareness campaigns.  
 
-By 2024, India had positioned itself as a global digital powerhouse, with a thriving technology ecosystem and millions of new internet users contributing to economic growth. Digital initiatives were expected to continue shaping India's future, with increasing emphasis on AI, cloud computing, and automation.  
+By 2024, India  had positioned itself as a global digital powerhouse, with a thriving technology ecosystem and millions of new  internet users contributing to economic growth. Digital initiatives were expected to continue shaping India's  future, with increasing emphasis on AI, cloud computing, and automation.  
 
 ---
 
