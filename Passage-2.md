@@ -3,7 +3,7 @@ The concept of "growth mindset," popularized by psychologist Carol Dweck,    sug
 
 However, critics argue that the growth mindset has been oversimplified    in its application. Some educators mistakenly believe that merely praising effort, without considering the effectiveness of learning strategies, is enough to foster improvement. Others point out that emphasizing mindset alone may overlook structural issues such as unequal access to resources, quality education, and supportive environments, which also play critical roles in academic success.  
 
-Despite these criticisms, the growth mindset remains influential because it    shifts the focus from innate ability to the process of learning itself. When applied thoughtfully, it can cultivate resilience, adaptability, and a lifelong love for learning. The key lies in balancing the psychological aspects of motivation with practical strategies and systemic support to create meaningful and lasting change.
+Despite these criticisms, the growth mindset remains influential because it  shifts the focus from innate ability to the process of learning itself. When applied thoughtfully, it can cultivate resilience, adaptability, and a lifelong love for learning. The key lies in balancing the psychological aspects of    motivation with practical strategies and systemic support to create meaningful and lasting change.
 
 ---
 
