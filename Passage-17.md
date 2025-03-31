@@ -1,6 +1,6 @@
 ### Passage: The Political Landscape of India in 2024
 
-In 2024, India's political  arena experienced significant shifts, marked by the general elections held from April 19 to June 1. The Bharatiya  Janata Party (BJP), led by Prime Minister Narendra Modi, sought a third consecutive term. Despite high expectations,  the BJP faced a notable setback, losing its parliamentary majority and securing 293 seats in the Lok Sabha. This outcome  compelled the BJP to form a coalition government, marking Modi's first experience heading such an alliance. 
+In 2024, India's political  arena experienced  significant shifts, marked by the general elections held from April 19 to June 1. The Bharatiya  Janata Party (BJP),  led by Prime Minister Narendra Modi, sought a third consecutive term. Despite high expectations,  the BJP faced a  notable setback, losing its parliamentary majority and securing 293 seats in the Lok Sabha. This outcome  compelled  the BJP to form a coalition government, marking Modi's first experience heading such an alliance. 
 
 The election results underscored  the resilience of India's multiparty system. Regional parties like the Telugu Desam Party (TDP) from Andhra Pradesh  and Janata Dal (United) from Bihar emerged as pivotal allies for the BJP, highlighting the enduring influence of regional dynamics in national politics.
 
