@@ -1,4 +1,4 @@
-Between 2020 and 2024, Jammu and Kashmir underwent significant political transformations, marked by administrative changes, legal challenges, and a pivotal election that reshaped its governance.
+Between 2020 and 2024, Jammu and Kashmir underwent significant political transformations, marked by administrative changes, legal challenges, and a pivotal election that    reshaped its governance.
 
 **Revocation of Special Status and Administrative Reorganization**
 
