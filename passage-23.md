@@ -6,7 +6,7 @@ In August 2019, the Indian government abrogated Article    370 of the Constituti
 
 **Delimitation and Legal Developments**
 
-In March 2020, a Delimitation Commission was established to redraw the electoral boundaries within the Union Territory. The commission's final report, released in May 2022, increased the total number of assembly seats to 90, with a notable addition of six seats in the Jammu division and one in the Kashmir division. This redistricting was significant as it altered the political landscape ahead of future elections.
+In March 2020, a Delimitation Commission was established to redraw     the electoral boundaries within the Union Territory. The commission's final report, released in May 2022, increased the total number of assembly seats to 90, with a notable addition of six seats in the Jammu division and one in the Kashmir division. This redistricting was significant as it altered the political landscape ahead of future elections.
 
 In December 2023, the Supreme Court of India upheld the abrogation of Article 370, affirming its constitutionality. The court also mandated the Election Commission to conduct legislative assembly elections in Jammu and Kashmir by September 30, 2024, emphasizing the restoration of democratic processes in the region. 
 
