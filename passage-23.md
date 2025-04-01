@@ -24,7 +24,7 @@ The newly elected government faces significant challenges, including addressing 
 
 **Multiple-Choice Questions (MCQs):**
 
-1. **What significant constitutional change occurred in Jammu and Kashmir in August 2019?**
+1.    **What significant constitutional change occurred in Jammu and Kashmir in August 2019?**
    - A) Introduction of Article 370
    - B) Abrogation of Article 370
    - C) Merger with the state of Punjab
