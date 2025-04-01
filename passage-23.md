@@ -2,7 +2,7 @@ Between 2020 and 2024, Jammu and Kashmir underwent significant political transfo
 
 **Revocation of Special Status and Administrative Reorganization**
 
-In August 2019, the Indian government abrogated Article 370 of the Constitution, revoking the special status of Jammu and Kashmir. Subsequently, the state was bifurcated into two Union Territories: Jammu and Kashmir, and Ladakh. This move led to the dissolution of the state assembly and the imposition of President's rule, centralizing administrative control. 
+In August 2019, the Indian government abrogated Article    370 of the Constitution, revoking the special status of Jammu and Kashmir. Subsequently, the state was bifurcated into two Union Territories: Jammu and Kashmir, and Ladakh. This move led to the dissolution of the state assembly and the imposition of President's rule, centralizing administrative control. 
 
 **Delimitation and Legal Developments**
 
