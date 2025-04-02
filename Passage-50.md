@@ -8,7 +8,7 @@ Environmentally, Bhutan remained a **carbon-negative country**, meaning it absor
 
 Politically, Bhutan continued to operate under a **constitutional monarchy**, with **King Jigme Khesar Namgyel Wangchuck** playing a crucial role in guiding national policies. The **2023 parliamentary elections** were conducted smoothly, reinforcing the country’s commitment to democracy.  
 
-By 2024, Bhutan had strengthened its diplomatic and economic ties with neighboring countries like **India, Bangladesh, and Nepal**, while also exploring **global partnerships for climate action and sustainable development**. The kingdom’s ability to balance **economic progress, environmental conservation, and cultural preservation** continued to serve as a model for sustainable development worldwide.  
+By 2024, Bhutan had strengthened its diplomatic    and economic ties with neighboring countries like **India, Bangladesh, and Nepal**, while also exploring **global partnerships for climate action and sustainable development**. The kingdom’s ability to balance **economic progress, environmental conservation, and cultural preservation** continued to serve as a model for sustainable development worldwide.  
 
 ---
 
