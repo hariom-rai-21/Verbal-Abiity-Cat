@@ -1,6 +1,6 @@
 ### **Passage on Bhutan’s Economic and Environmental Policies (2020-2024)**  
 
-Bhutan, a small Himalayan kingdom known for its **unique approach to development through Gross National Happiness (GNH)**, continued its focus on sustainable growth and environmental conservation between **2020 and 2024**. Despite the challenges posed by the **COVID-19 pandemic**, Bhutan successfully managed the crisis with **strict health protocols and widespread vaccination efforts**, making it one of the first countries to achieve near-complete vaccination in 2021.  
+Bhutan, a small Himalayan kingdom known for its **unique approach to development through   Gross National Happiness (GNH)**, continued its focus on sustainable growth and environmental conservation between **2020 and 2024**. Despite the challenges posed by the **COVID-19 pandemic**, Bhutan successfully managed the crisis with **strict health protocols and widespread vaccination efforts**, making it one of the first countries to achieve near-complete vaccination in 2021.  
 
 Economically, Bhutan remained **heavily dependent on hydropower exports to India**, which contributed significantly to government revenue. However, the country also aimed to **diversify its economy** by promoting **eco-tourism, organic agriculture, and digital services**. In 2022, Bhutan introduced policies to **increase foreign investment and support local entrepreneurs**, ensuring sustainable economic growth.  
 
